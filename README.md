@@ -16,12 +16,6 @@ ELLM Startup Initiative 2025 - Public Heathcare
 
 ---
 
-##  Demo
-
-> Coming soon — add a link to your demo video here!
-
----
-
 ##  How It Works
 
 1. User enters a symptom in their preferred language
